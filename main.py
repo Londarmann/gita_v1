@@ -26,3 +26,6 @@ with open('new_name.csv', 'w', newline='') as file:
     writer = csv.DictWriter(file, fieldnames=['first_name', 'last_name', 'age'])
     writer.writeheader()
     writer.writerows(s_lst)
+
+
+
