@@ -62,6 +62,11 @@ with open('new_name.csv', 'w', newline='') as file:
 
 import csv
 
+
+
+
+
+
 #
 # data = [
 #     {'first_name': "saxeli", "last_name": "gvari", "age": 20},
